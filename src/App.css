@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@theme {
+  --font-Nunito: "Nunito", sans-serif;
+  --font-Inter: "Inter", sans-serif;
+  --font-Rubik: "Rubik", sans-serif;
+  --font-Playfair: "Playfair Display", serif;
+  --color-Primary: #232323;
+}

@@ -1,0 +1,22 @@
+.slick-dots {
+  position: absolute;
+  top: 570px;
+}
+
+.slick-dots li {
+  background-color: #80b500;
+  border-radius: 50%;
+  height: 10px !important;
+  width: 10px !important;
+  margin-left: 8px !important;
+}
+.slick-dots li.slick-active {
+  transform: scale(1.8);
+  background-color: #80b500;
+}
+.slick-active button::before {
+  color: #80b500 !important;
+}
+.slick-dots li button::before {
+  content: " " !important;
+}
