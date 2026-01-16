@@ -37,35 +37,35 @@ const Ourproducts = () => {
           <Button
             data-filter="*"
             className={
-              "hover:bg-transparent hover:text-Primary rounded-4xl duration-150"
+              "[&.mixitup-control-active]:bg-white [&.mixitup-control-active]:text-[#223645] rounded-4xl duration-150"
             }
             btnTxt={"Food & Drinks"}
           />
           <Button
             data-filter=".vegetables"
             className={
-              "hover:bg-transparent hover:text-Primary rounded-4xl duration-150"
+              "[&.mixitup-control-active]:bg-white [&.mixitup-control-active]:text-[#223645] rounded-4xl duration-150"
             }
             btnTxt={"vegetables"}
           />
           <Button
             data-filter=".dried"
             className={
-              "hover:bg-transparent hover:text-Primary rounded-4xl duration-150"
+              "[&.mixitup-control-active]:bg-white [&.mixitup-control-active]:text-[#223645] rounded-4xl duration-150"
             }
             btnTxt={"Dried Foods"}
           />
           <Button
             data-filter=".brek"
             className={
-              "hover:bg-transparent hover:text-Primary rounded-4xl duration-150"
+              "[&.mixitup-control-active]:bg-white [&.mixitup-control-active]:text-[#223645] rounded-4xl duration-150"
             }
             btnTxt={"Bread & Cake"}
           />
           <Button
             data-filter=".fish"
             className={
-              "hover:bg-transparent hover:text-Primary rounded-4xl duration-150"
+              "[&.mixitup-control-active]:bg-white [&.mixitup-control-active]:text-[#223645] rounded-4xl duration-150"
             }
             btnTxt={"Fish & meat"}
           />

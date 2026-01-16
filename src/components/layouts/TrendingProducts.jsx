@@ -47,7 +47,10 @@ const TrendingProducts = () => {
               productTitle={"Juicy Orange Pack"}
               productPrice={"$19.00"}
             />
-            <Badge className={"-mr-5"} badgeTxt={"-29%"} />
+            <Badge
+              className={"-mr-5 rounded-tl-[10px] rounded-br-[10px]"}
+              badgeTxt={"-29%"}
+            />
           </div>
           <div className="">
             <Products
@@ -96,7 +99,10 @@ const TrendingProducts = () => {
               productTitle={"Juicy Orange Pack"}
               productPrice={"$19.00"}
             />
-            <Badge className={"-mr-5"} badgeTxt={"-29%"} />
+            <Badge
+              className={"-mr-5 rounded-tl-[10px] rounded-br-[10px]"}
+              badgeTxt={"-29%"}
+            />
           </div>
         </div>
       </Container>

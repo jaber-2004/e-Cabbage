@@ -1,22 +1,24 @@
 .slick-dots {
-  position: absolute;
   top: 570px;
+  display: flex !important;
+  column-gap: 8px;
+  justify-content: center;
 }
 
 .slick-dots li {
   background-color: #80b500;
   border-radius: 50%;
-  height: 10px !important;
-  width: 10px !important;
-  margin-left: 8px !important;
+  height: 13px !important;
+  width: 13px !important;
+  border: 2px solid white;
 }
+
 .slick-dots li.slick-active {
-  transform: scale(1.8);
-  background-color: #80b500;
+  transform: scale(1.4);
+  border: none;
+  margin-bottom: 10px;
 }
-.slick-active button::before {
-  color: #80b500 !important;
-}
+
 .slick-dots li button::before {
-  content: " " !important;
+  content: "" !important;
 }
