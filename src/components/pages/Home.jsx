@@ -10,6 +10,8 @@ import ProductsFacilities from '../layouts/ProductsFacilities'
 import TredingProductsTwo from '../layouts/TredingProductsTwo'
 import Testmonial from '../layouts/Testmonial'
 import Companylogo from '../layouts/Companylogo'
+import LastBlog from '../layouts/LastBlog'
+
 
 const Home = () => {
   return (
@@ -24,6 +26,7 @@ const Home = () => {
     <ProductsFacilities/>
     <TredingProductsTwo/>
     <Testmonial/>
+    <LastBlog/>
     <Companylogo/>
     </>
   )

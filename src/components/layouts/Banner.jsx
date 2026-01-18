@@ -26,7 +26,7 @@ const Banner = () => {
   };
   return (
     <div className="">
-      <Slider {...settings} className="overflow-x-hidden">
+      <Slider {...settings} className="overflow-hidden">
         <div className="bg-[#F9F4EE]">
           <Container>
             <div className="flex py-40">

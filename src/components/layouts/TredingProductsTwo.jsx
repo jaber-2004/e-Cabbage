@@ -28,7 +28,7 @@ const TredingProductsTwo = () => {
                 <h5 className="text-[#223645] text-sm font-Nunito">$25.00</h5>
                 <p className="text-[#80B500] text-[12px] font-Nunito">$34.00</p>
               </div>
-              <h3 className="text-[#223645] text-sm font-Nunito">
+              <h3 className="text-[#223645] text-sm font-Nunito underline">
                 Add To Cart
               </h3>
             </div>
@@ -44,7 +44,7 @@ const TredingProductsTwo = () => {
                 <h5 className="text-[#223645] text-sm font-Nunito">$25.00</h5>
                 <p className="text-[#80B500] text-[12px] font-Nunito">$34.00</p>
               </div>
-              <h3 className="text-[#223645] text-sm font-Nunito">
+              <h3 className="text-[#223645] text-sm font-Nunito underline">
                 Add To Cart
               </h3>
             </div>
@@ -59,7 +59,7 @@ const TredingProductsTwo = () => {
                 <h5 className="text-[#223645] text-sm font-Nunito">$25.00</h5>
                 <p className="text-[#80B500] text-[12px] font-Nunito">$34.00</p>
               </div>
-              <h3 className="text-[#223645] text-sm font-Nunito">
+              <h3 className="text-[#223645] text-sm font-Nunito underline">
                 Add To Cart
               </h3>
             </div>
@@ -76,7 +76,7 @@ const TredingProductsTwo = () => {
                 <h5 className="text-[#223645] text-sm font-Nunito">$25.00</h5>
                 <p className="text-[#80B500] text-[12px] font-Nunito">$34.00</p>
               </div>
-              <h3 className="text-[#223645] text-sm font-Nunito">
+              <h3 className="text-[#223645] text-sm font-Nunito underline">
                 Add To Cart
               </h3>
             </div>
@@ -92,7 +92,7 @@ const TredingProductsTwo = () => {
                 <h5 className="text-[#223645] text-sm font-Nunito">$25.00</h5>
                 <p className="text-[#80B500] text-[12px] font-Nunito">$34.00</p>
               </div>
-              <h3 className="text-[#223645] text-sm font-Nunito">
+              <h3 className="text-[#223645] text-sm font-Nunito underline">
                 Add To Cart
               </h3>
             </div>
@@ -107,7 +107,7 @@ const TredingProductsTwo = () => {
                 <h5 className="text-[#223645] text-sm font-Nunito">$25.00</h5>
                 <p className="text-[#80B500] text-[12px] font-Nunito">$34.00</p>
               </div>
-              <h3 className="text-[#223645] text-sm font-Nunito">
+              <h3 className="text-[#223645] text-sm font-Nunito underline">
                 Add To Cart
               </h3>
             </div>
@@ -124,7 +124,7 @@ const TredingProductsTwo = () => {
                 <h5 className="text-[#223645] text-sm font-Nunito">$25.00</h5>
                 <p className="text-[#80B500] text-[12px] font-Nunito">$34.00</p>
               </div>
-              <h3 className="text-[#223645] text-sm font-Nunito">
+              <h3 className="text-[#223645] text-sm font-Nunito underline">
                 Add To Cart
               </h3>
             </div>
@@ -140,7 +140,7 @@ const TredingProductsTwo = () => {
                 <h5 className="text-[#223645] text-sm font-Nunito">$25.00</h5>
                 <p className="text-[#80B500] text-[12px] font-Nunito">$34.00</p>
               </div>
-              <h3 className="text-[#223645] text-sm font-Nunito">
+              <h3 className="text-[#223645] text-sm font-Nunito underline">
                 Add To Cart
               </h3>
             </div>
@@ -155,7 +155,7 @@ const TredingProductsTwo = () => {
                 <h5 className="text-[#223645] text-sm font-Nunito">$25.00</h5>
                 <p className="text-[#80B500] text-[12px] font-Nunito">$34.00</p>
               </div>
-              <h3 className="text-[#223645] text-sm font-Nunito">
+              <h3 className="text-[#223645] text-sm font-Nunito underline">
                 Add To Cart
               </h3>
             </div>

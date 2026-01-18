@@ -22,3 +22,21 @@
 .slick-dots li button::before {
   content: "" !important;
 }
+.testmonial .slick-dots {
+  top: 370px;
+  display: flex !important;
+  column-gap: 8px;
+  justify-content: center;
+}
+.testmonial .slick-dots li {
+  background-color: #c6dd8c;
+  border-radius: 50%;
+  height: 15px !important;
+  width: 15px !important;
+}
+.testmonial .slick-dots li.slick-active {
+  transform: scale(1.4);
+  border: 1px solid #90be20;
+  margin-bottom: 10px;
+  background-color: white;
+}

@@ -70,7 +70,7 @@ const Ourproducts = () => {
             btnTxt={"Fish & meat"}
           />
         </div>
-        <div className="grid grid-cols-4 gap-4 mt-10" ref={containerRef}>
+        <div className="grid grid-cols-4 justify-center gap-4 mt-10" ref={containerRef}>
           <div className="mix food">
             <Products
               productImg={productImg}
